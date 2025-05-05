@@ -1,6 +1,8 @@
 ## ¡Hola! Soy David 👋
 
-![Banner](img/banner.png)
+<p align="center">
+  <img src="img/banner.png" alt="Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+</p>
 
 Soy **Desarrollador Full Stack** con más de 2 años de experiencia creando soluciones escalables y bien estructuradas.
 
