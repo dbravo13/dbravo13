@@ -4,7 +4,7 @@
   <img src="img/banner.png" alt="Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
 </p>
 
-Soy **Desarrollador Full Stack** con más de 2 años de experiencia creando soluciones escalables y bien estructuradas.
+Soy **Desarrollador Full Stack** con más de 3 años de experiencia creando soluciones escalables y bien estructuradas.
 
 Me especializo en **backend con Node.js, Express y NestJS**, y tengo experiencia en **Docker** y despliegues con **AWS**.  
 También trabajo en el frontend con **React, Next.js, Tailwind y TypeScript** para crear productos completos de principio a fin.
